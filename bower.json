@@ -1,0 +1,19 @@
+{
+  "name": "dashboard",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Eric Craft <eacraft13@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/eacraft13/fantasy_data-dashboard",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/views/_vendor",
+    "test",
+    "tests"
+  ]
+}
