@@ -1,0 +1,27 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eacraft13/fantasy_data-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eacraft13/fantasy_data-dashboard/issues"
+  },
+  "homepage": "https://github.com/eacraft13/fantasy_data-dashboard#readme",
+  "dependencies": {
+    "connect-assets": "^5.0.1",
+    "express": "^4.13.3",
+    "helmet": "^1.0.1",
+    "jade": "^1.11.0",
+    "pmx": "^0.5.8",
+    "serve-favicon": "^2.3.0"
+  }
+}
