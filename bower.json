@@ -15,5 +15,9 @@
     "lib/views/_vendor",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.1.4"
+  }
 }
